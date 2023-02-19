@@ -1,0 +1,9 @@
+{
+    "btns": {
+        "home": "Home",
+        "about": "About"
+    },
+    "text": {
+        "front_page": "This is the front page."
+    }
+}

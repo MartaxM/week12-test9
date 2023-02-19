@@ -1,0 +1,9 @@
+{
+    "btns": {
+        "home": "Etusivu",
+        "about": "Tietoa Meistä"
+    },
+    "text": {
+        "front_page": "Tämä on etusivu"
+    }
+  }
